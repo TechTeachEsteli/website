@@ -1,0 +1,18 @@
+<!--Sponsers-->
+<section id="sponsers" class="pb-4">
+    <div class="row justify-content-center pt-4"><h1>{{ i18n "patrocinador" . }}</h1></div>
+    <div class="row justify-content-center">
+        {{ range $.Site.Data.patrocinadores.patrocinador }}
+        <div class="col-md-4 col-8 text-center">
+            <a href="{{ .link }}">
+                {{ if isset . "image" }}
+                <img src="{{ .image }}" alt="{{ .name }}" class="img-fluid"/>
+                {{ else }}
+                <p>{{ .name }}</p>
+                {{ end }}
+            </a>
+
+        </div>
+        {{ end }}
+    </div>
+</section>

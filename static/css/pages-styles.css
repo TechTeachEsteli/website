@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+.track-content .padding {
+    padding: 4%
+}
+
+.track-content .padding-below {
+    padding-bottom: 3%;
+}
+
+.track-content .padding-top {
+    padding-top: 10% !important;
+}
+
+
+.track-content .track-title {
+    padding-bottom: 5%;
+}
+
+.track-content .light_blue {
+    background-color: #B1CAE8;
+}
+
+.track-content .dotted {
+    padding: 2%;
+    padding-bottom: 5%;
+    border-style: dotted;
+}
+
+.track-content .dotted-top {
+    padding: 2%;
+    padding-bottom: 5%;
+    border-style: dotted;
+    border-bottom: none;
+}
+
+.track-content .track-text h3 {
+    font-family: 'Frutiger', sans-serif;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.track-content .slogan {
+    text-align: right;
+    color: #210658;
+}
+
+.track-content .intro-text {
+    font-size: larger;
+}
+
+.track-content .track-text {
+    background-color: #84529C;
+    color: white;
+    padding: 5%;
+}
+
+.track-content .connect {
+    text-align: center;
+}
+
+.track-content .align-left {
+    text-align: left;
+}
+
+
+/* Links */
+.track-content a:link {
+    color: #f7f7f7;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.track-content a:visited {
+    color: #cfcfcf;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.track-content a:hover {
+    color: #cfcfcf;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.track-content a:active {
+    color: #808080;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+/* Einde Links */

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{ partial "header/meta.html" . }}
+    {{ partial "header/scripts.html" . }}
+
+    <title>{{ .Site.Title }}</title>
+
+    {{ partial "header/styles.html" . }}
+    {{ partial "header/fav-icons.html" . }}
+</head>
+<body>
+{{ partial "navigation/main-navigation.html" . }}
+
+{{ block "main" . }}
+{{ end }}
+
+{{ partial "footer/site-footer.html" . }}
+{{ partial "footer/scripts.html" . }}
+
+</body>
+</html>

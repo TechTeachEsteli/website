@@ -1,0 +1,11 @@
+[[event]]
+day = "tuesday"
+time= "2pm - 4:30pm"
+
+[[event]]
+day = "thursday"
+time= "2pm - 4:30pm"
+
+[[event]]
+day = "saturday"
+time= "2pm - 4:30pm"

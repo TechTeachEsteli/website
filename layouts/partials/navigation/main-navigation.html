@@ -1,0 +1,25 @@
+<nav id="hoofdNavBar">
+    <div class="flex-container-nav">
+        <div class="logo-fix">
+            <img src="{{ "images/Logo_small.png" | absURL }}" alt="logo TechTeach" id="logo_small">
+        </div>
+        <img src="{{ "images/Logo_TechTeach_no_background-01.png" | absURL }}" alt="logo TechTeach" id="logo_large">
+        <h1 id="brand">TechTeach Estelí</h1>
+    </div>
+
+    <ul>
+        <li><a href="https://www.facebook.com/techteachdeventer"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <div class="text">Facebook</div>
+        </li>
+        <li><a href="https://www.instagram.com/techteachdeventer/"><i class="fa fa-instagram"
+                                                                      aria-hidden="true"></i></a>
+            <div class="text">Instagram</div>
+        </li>
+        <li><a href="https://www.linkedin.com/company/25079337/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <div class="text">Linkedin</div>
+        </li>
+        <li><a href="mailto:contacto@techteachesteli.info"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+            <div class="text">{{ i18n "email" . }}</div>
+        </li>
+    </ul>
+</nav>

@@ -1,0 +1,70 @@
+# Header
+- id: email
+  translation: "Email"
+
+#Courses
+- id: courses
+  translation: "Cursos"
+
+#Info
+- id: schedule
+  translation: "Horario"
+- id: location
+  translation: "Dirección"
+- id: practical-info
+  translation: "Información práctica"
+- id: time
+  translation: "Hora"
+- id: until
+  translation: "a"
+- id: tt-adults
+  translation: "TechTeach adult@s"
+- id: tt-kids
+  translation: "TechTeach niñ@s"
+- id: contact
+  translation: "Contacto"
+- id: horario-comment
+  translation: "Participación es gratuita. Si tienes una laptop, llévala, si no tienes puedes utilizar una de las laptops acá."
+
+# Team
+- id: team
+  translation: "Las voluntarias"
+
+# Sponsors
+- id: patrocinador
+  translation: "Patrocinador"
+
+# Footer
+- id: footer-contact-text
+  translation: "Para cualquier pregunta o duda envíenos un correo: "
+
+- id: footer-author-text
+  translation: "Diseño web e ilustraciones:"
+
+# Day names
+- id: monday
+  translation: "Lunes"
+- id: tuesday
+  translation: "Martes"
+- id: wednesday
+  translation: "Miércoles"
+- id: thursday
+  translation: "Jueves"
+- id: friday
+  translation: "Viernes"
+- id: saturday
+  translation: "Sábado"
+- id: sunday
+  translation: "Domingo"
+
+# Tracks
+- id: slogan
+  translation: "Entra al mundo maravilloso de programación"
+
+#Philosophy
+- id: philosophy
+  translation: "Filosofía"
+- id: philpar1
+  translation: "TechTeach es un lugar donde todos aprendemos; los participantes y los TechTeachers también. Queremos que sea un ambiente seguro y donde todos se sienten bienvenido."
+- id: philpar2
+  translation: "Aprender programación no siempre será facil y vas a cometer errores; eso es normal, y sólo es una señal de que estás aprendiendo algo nuevo. Discutir un problema que encuentras con los otros estudiantes o los TechTeachers te puede ayudar en pensar en nuevas soluciones."

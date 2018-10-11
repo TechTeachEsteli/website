@@ -1,0 +1,26 @@
+<section id="courses" class="container-fluid pb-4">
+    <div class="row justify-content-center pt-4"><h1>{{ i18n "courses" }}</h1></div>
+
+    <div class="row pt-3 pb-5">
+        {{ $list := (where (.Data.Pages.ByParam "order") "Section" "cursos") }}
+        {{ range $list }}
+        <div class="col p-2 text-center">
+            <button type="button" class="btn btn-course">{{ .Title }}</button>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="row justify-content-center pt-4"><h1>{{ i18n "philosophy" . }}</h1></div>
+
+    <div class="row justify-content-center">
+        <div class="col-10 col-md-8 col-lg-6">
+            <p>{{ i18n "philpar1" . }}</p>
+            <p>{{ i18n "philpar2" . }}</p>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-8 col-lg-6">
+            <img src="{{ "images/techteach-zen.png" | absURL }}" class=img-fluid>
+        </div>
+    </div>
+</section>

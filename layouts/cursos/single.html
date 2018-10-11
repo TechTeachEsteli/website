@@ -1,0 +1,65 @@
+{{ define "main" }}
+<section class="track-content">
+    <div class="container-fluid light_blue padding-top padding">
+        <div class="row justify-content-md-center">
+            <div class="col-md-3 align-self-center">
+                <div id="program_img">
+                    <img class="img-fluid" src="{{ .Params.image | absURL }}">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row justify-content-between">
+                    <h3 class="track-title">{{ .Title }}</h3>
+                    {{ range .Translations }}
+                    <a href="{{ .Permalink }}">
+                        <button type="button" class="btn">{{ .Lang }} version</button>
+                    </a>
+                    {{ end }}
+                </div>
+                <div class="row">
+                    {{ .Params.description | markdownify }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row justify-content-md-center dotted">
+        <div class="col-md-8">
+            <h3 class="tussenkop">Intro</h3>
+            <p class="intro-text">{{ .Params.intro }}</p>
+            <h4 class="slogan">{{ i18n "slogan"}}</h4>
+        </div>
+    </div>
+
+    <div class="track-text">
+        <div class="row justify-content-md-center">
+            <div class="col-md-8">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    <div class="row justify-content-md-center dotted-top connect">
+        <div class="col-md-7">
+            <h3>Connect</h3><br>
+            <p>
+                Stel vragen aan mede-deelnemers en de TechTeachers!
+            </p>
+            <p class="align-left">
+                Soms is niet alles direct duidelijk of zul je vast komen te zitten bij een opdracht. <strong>We've all
+                been there!</strong> Leren programmeren is niet triviaal en gaat met vallen en opstaan.
+                Een programmeer probleem bespreken met een ander kan je nieuwe inzichten geven over een mogelijke
+                oplossing. Bij TechTeach willen we een open sfeer creeëren waar vragen en elkaar helpen aangemoedigd
+                wordt.
+                Dus wees niet bang iets te vragen en draag je steentje bij door anderen te helpen :)
+            </p>
+        </div>
+        <div class="row">
+            <div id="code_breed" class="col align-self-center">
+                <img src="{{ "images/compleet.png" | absURL }}" id="code_breed_img">
+            </div>
+        </div>
+
+    </div>
+</section>
+{{ end }}

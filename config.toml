@@ -1,0 +1,7 @@
+baseURL = "https://techteachesteli.info/"
+title = "TechTeach Esteli"
+DefaultContentLanguage = "es"
+
+[languages]
+[languages.es]
+weight = 1

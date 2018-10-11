@@ -1,0 +1,49 @@
+<section id="info" class="pb-4">
+    <div class="pt-4"><h1>{{ i18n "schedule" }}</h1></div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <h3 class="row justify-content-center pt-4">{{ i18n "tt-adults" . }}</h3>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-8 col-8 col-md-9">
+                    <ul class="list-group">
+                        {{ range $.Site.Data.schedule.event }}
+                        <li class="list-group-item">
+                            <b>{{ i18n .day }}</b> {{.time}}
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <h3 class="row justify-content-center pt-4">{{ i18n "tt-kids" . }}</h3>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-8 col-8 col-md-9">
+                    <ul class="list-group">
+                        {{ range $.Site.Data.schedulekids.event }}
+                        <li class="list-group-item">
+                            <b>{{ i18n .day }}</b> {{.time}}
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row justify-content-center pt-4">
+        <div class="col-8 text-center"><p>{{ i18n "horario-comment" . }}</p></div>
+    </div>
+
+    <div id="practical-info" class="pt-3 row justify-content-center">
+        <div class="col-md-4">
+            <h2 class="row justify-content-center">{{ i18n "contact" . }}</h2>
+            <p class="row justify-content-center pr-1 pl-1">Movistar: 76644211<br>Claro: 89393096</p>
+        </div>
+
+    </div>
+</section>

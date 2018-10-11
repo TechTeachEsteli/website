@@ -1,0 +1,215 @@
+@charset "UTF-8";
+
+/* kleur codes
+Donkerpaars: #210658;
+Achtergrond beige: #FFFAF2;
+Paars: #84529C;
+Lichtblauw: #B1CAE8;
+*/
+
+/* fonts 
+font-family: 'Open Sans', sans-serif;
+*/
+
+html {
+    font-size: 100%;
+}
+
+body {
+    background-color: white;
+    /*background-color: #eae8ff;*/
+    color: #2d116d;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 1.6rem;
+}
+
+
+h2 {
+    font-size: 1.2rem;
+}
+
+/*header achtergrond*/
+.image-container {
+    background-color: #2f1886;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 6%;
+    position: relative;
+}
+
+b {
+    color: #84529C;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Begin */
+
+.background-image {
+    background-image: url("../images/grey.png");
+}
+
+#programmeur_in_dop {
+    font-family: 'Frutiger', sans-serif;
+    color: #2d116d;
+    padding-left: 20%;
+    padding-top: 2%;
+    text-align: left;
+}
+
+#onderzin {
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#omschrijving {
+    text-align: left;
+    padding-bottom: 2%;
+}
+
+/* Testimonials */
+.carousel-indicators li {
+    background-color: #B1CAE8;
+}
+
+.carousel-indicators .active {
+    background-color: #2f1886;
+}
+
+#topics .carousel-indicators {
+    top: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.carousel-inner {
+    padding-top: 5%;
+}
+
+#topics {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#topics img {
+    margin: 2% 0 2% 0;
+}
+
+.topic-titel {
+    padding-top: 5%;
+}
+
+/* Courses */
+
+#courses {
+    border-top: 3px solid #2D116D;
+    background-color: #6D72C3;
+    color: white;
+}
+
+#courses .h1 {
+    font-weight: bold;
+}
+
+.btn-course {
+    background-color: white;
+    color: #2D116D;
+    border: 3px solid #2D116D;
+    transition: 0.3s;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.btn-course:hover  {
+    background-color: #2D116D;
+    color: white;
+    border: 3px solid white;
+}
+
+.btn-course:active, .btn-custom:focus {
+    box-shadow: 0 0 0 0;
+}
+
+/*Feiten en Cijfers*/
+#cijfers p {
+    font-size: 70%;
+}
+
+#cijfers .container {
+    padding-bottom: 6%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#cijfers a {
+    color: #2d116d;
+    text-decoration: none;
+}
+
+#cijfers h1 {
+    padding-top: 4%;
+}
+
+.card {
+    border-color: #84529C;
+}
+
+.card h1 {
+    padding-top: 3%;
+}
+
+.card {
+    margin: 2%;
+}
+
+#cijfers {
+    border-bottom: 3px dotted #84529C;
+}
+
+/* Practical info*/
+#info h3 {
+    font-size: 1.2rem;
+    color: #2f1886;
+    font-weight: bold;
+}
+
+#practical-info h2 {
+    font-size: 1.2rem;
+    color: #84529C;
+}
+
+#info h1 {
+    color: #2f1886;
+    text-align: center;
+}
+
+.schedule-title {
+    color: #2f1886 !important;
+}
+
+#team {
+    background-color: #B1CAE8;
+}
+
+.round-img {
+    width: 200px;
+    margin: 1rem;
+    border-radius: 50%;
+    -webkit-box-shadow: 4px 6px 41px -10px rgba(0, 0, 0, 0.63);
+    -moz-box-shadow: 4px 6px 41px -10px rgba(0, 0, 0, 0.63);
+    box-shadow: 4px 6px 41px -10px rgba(0, 0, 0, 0.63);
+}
+
+.social-icon {
+    height: 20px;
+    width: 20px;
+}

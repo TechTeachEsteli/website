@@ -1,0 +1,22 @@
+{{ define "main"}}
+<header>
+    <div class="image-container" id="code_breed">
+        <img src="{{ "images/compleet.png" | absURL }}" id="code_breed_img">
+    </div>
+</header>
+
+
+<section id="over" class="background-image">
+    <h1 id="programmeur_in_dop">{{ .Title }}</h1>
+    <h2 id="onderzin">{{ .Params.subtitle }}</h2><br>
+    <div id="omschrijving" class="container">{{ .Content }}</div>
+
+    {{ partial "topics/topics.html" . }}
+
+</section>
+
+{{ partial "cursos/main-cursos.html" . }}
+{{ partial "information/information.html" . }}
+{{ partial "team/main-team.html" . }}
+{{ partial "sponsors/main-sponsors.html" . }}
+{{ end }}

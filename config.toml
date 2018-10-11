@@ -5,3 +5,6 @@ DefaultContentLanguage = "es"
 [languages]
 [languages.es]
 weight = 1
+
+[blackfriday]
+  hrefTargetBlank = true

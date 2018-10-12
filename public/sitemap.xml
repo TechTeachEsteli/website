@@ -3,51 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://techteachesteli.info/topics/arduino/</loc>
+    <loc>http://techteachesteli.info/topics/arduino/</loc>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/cursos/backend/</loc>
+    <loc>http://techteachesteli.info/cursos/backend/</loc>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/categories/</loc>
+    <loc>http://techteachesteli.info/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/cursos/</loc>
+    <loc>http://techteachesteli.info/cursos/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/topics/website/</loc>
+    <loc>http://techteachesteli.info/topics/website/</loc>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/cursos/frontend/</loc>
+    <loc>http://techteachesteli.info/cursos/frontend/</loc>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/cursos/python/</loc>
+    <loc>http://techteachesteli.info/cursos/python/</loc>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/topics/scratch/</loc>
+    <loc>http://techteachesteli.info/topics/scratch/</loc>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/tags/</loc>
+    <loc>http://techteachesteli.info/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/topics/</loc>
+    <loc>http://techteachesteli.info/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/</loc>
+    <loc>http://techteachesteli.info/</loc>
   </url>
   
 </urlset>

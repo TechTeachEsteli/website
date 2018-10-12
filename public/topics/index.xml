@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on TechTeach Esteli</title>
-    <link>https://techteachesteli.info/topics/</link>
+    <link>http://techteachesteli.info/topics/</link>
     <description>Recent content in Topics on TechTeach Esteli</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://techteachesteli.info/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://techteachesteli.info/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arduino UNO</title>
-      <link>https://techteachesteli.info/topics/arduino/</link>
+      <link>http://techteachesteli.info/topics/arduino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techteachesteli.info/topics/arduino/</guid>
+      <guid>http://techteachesteli.info/topics/arduino/</guid>
       <description>¿Qué es Arduino? Arduino es una plataforma de prototipos electrónica de código abierto (open-source) basada en hardware y software flexibles y fáciles de usar. Está pensado para artistas, diseñadores, como hobby y para cualquiera interesado en crear objetos o entornos interactivos. (Fuente: sitio web arduino) Si te interesa experimentar con Arduino tenemos varios Arduinos UNO y accesorios asociados.</description>
     </item>
     
     <item>
       <title>Desarrollo Web</title>
-      <link>https://techteachesteli.info/topics/website/</link>
+      <link>http://techteachesteli.info/topics/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techteachesteli.info/topics/website/</guid>
+      <guid>http://techteachesteli.info/topics/website/</guid>
       <description>Para crear un sitio web en código necesitas HTML, CSS y JavaScript. Con HTML pones texto en la página y con CSS añades colores y estilos. Finalmente, para funcionalidades más dificiles, como movimientos o hacer click en un botón, necesitas JavaScript para hacer eso funcionar. Es bastante fácil empezar con HTML y CSS, por eso recomendamos este tema para empezar.</description>
     </item>
     
     <item>
       <title>Scratch: Programación para niñ@s</title>
-      <link>https://techteachesteli.info/topics/scratch/</link>
+      <link>http://techteachesteli.info/topics/scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techteachesteli.info/topics/scratch/</guid>
+      <guid>http://techteachesteli.info/topics/scratch/</guid>
       <description>Los nin@s definitivamente pueden aprender a programar. Una ventaja de aprender programación es el desarrollo del pensamiento lógico. Scratch es un lenguaje de programación especialmente desarrollado para niñ@s que es facil y divertido para aprender. ¡Con Scratch se puede hacer animaciones, juegos y mucho más!</description>
     </item>
     

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>¿Quieres aprender a programar? on TechTeach Esteli</title>
-    <link>http://techteachesteli.info/</link>
+    <link>https://techteachesteli.info/</link>
     <description>Recent content in ¿Quieres aprender a programar? on TechTeach Esteli</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://techteachesteli.info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://techteachesteli.info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arduino UNO</title>
-      <link>http://techteachesteli.info/topics/arduino/</link>
+      <link>https://techteachesteli.info/topics/arduino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/topics/arduino/</guid>
+      <guid>https://techteachesteli.info/topics/arduino/</guid>
       <description>¿Qué es Arduino? Arduino es una plataforma de prototipos electrónica de código abierto (open-source) basada en hardware y software flexibles y fáciles de usar. Está pensado para artistas, diseñadores, como hobby y para cualquiera interesado en crear objetos o entornos interactivos. (Fuente: sitio web arduino) Si te interesa experimentar con Arduino tenemos varios Arduinos UNO y accesorios asociados.</description>
     </item>
     
     <item>
       <title>Backend web development</title>
-      <link>http://techteachesteli.info/cursos/backend/</link>
+      <link>https://techteachesteli.info/cursos/backend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/cursos/backend/</guid>
+      <guid>https://techteachesteli.info/cursos/backend/</guid>
       <description>Java op Codecademy We maken gebruik van de Java cursus die beschikbaar is op Codecademy. De curus bevat de nodige uitleg en vervolgens mag je zelf aan de slag om een probleem op te lossen met Java code. Je kunt het hele programma in je browser volgen en je hoeft er geen software voor op je computer te installeren.
 Doorloop de volgende stappen om te beginnen:
  Ga naar Codecademy en maak een account aan.</description>
@@ -31,28 +31,28 @@ Doorloop de volgende stappen om te beginnen:
     
     <item>
       <title>Desarrollo Web</title>
-      <link>http://techteachesteli.info/topics/website/</link>
+      <link>https://techteachesteli.info/topics/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/topics/website/</guid>
+      <guid>https://techteachesteli.info/topics/website/</guid>
       <description>Para crear un sitio web en código necesitas HTML, CSS y JavaScript. Con HTML pones texto en la página y con CSS añades colores y estilos. Finalmente, para funcionalidades más dificiles, como movimientos o hacer click en un botón, necesitas JavaScript para hacer eso funcionar. Es bastante fácil empezar con HTML y CSS, por eso recomendamos este tema para empezar.</description>
     </item>
     
     <item>
       <title>Frontend web development</title>
-      <link>http://techteachesteli.info/cursos/frontend/</link>
+      <link>https://techteachesteli.info/cursos/frontend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/cursos/frontend/</guid>
+      <guid>https://techteachesteli.info/cursos/frontend/</guid>
       <description>Voorbereiding Voor dit programma heb je een tekstverwerker nodig. Microsoft Word is niet erg geschikt voor dit soort doeleinden en er bestaan tekstverwerkers die juist visuele ondersteuning geven bij het programmeren. Wij raden aan om Sublime Text te gebruiken; deze tekstverwerker is gratis en geeft je wat extra hulp bij het maken van HTML, CSS en JavaScript zowel visueel als bij het schrijven zelf. Sublime kun je hier downloaden.</description>
     </item>
     
     <item>
       <title>Python development</title>
-      <link>http://techteachesteli.info/cursos/python/</link>
+      <link>https://techteachesteli.info/cursos/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/cursos/python/</guid>
+      <guid>https://techteachesteli.info/cursos/python/</guid>
       <description>Python op Codecademy We maken gebruik van de Python cursus die beschikbaar is op Codecademy. De curus bevat de nodige uitleg en vervolgens mag je zelf aan de slag om een probleem op te lossen met Python code. Je kunt het hele programma in je browser volgen en je hoeft er geen software voor op je computer te installeren.
 Doorloop de volgende stappen om te beginnen:
  Ga naar Codecademy en maak een account aan.</description>
@@ -60,10 +60,10 @@ Doorloop de volgende stappen om te beginnen:
     
     <item>
       <title>Scratch: Programación para niñ@s</title>
-      <link>http://techteachesteli.info/topics/scratch/</link>
+      <link>https://techteachesteli.info/topics/scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/topics/scratch/</guid>
+      <guid>https://techteachesteli.info/topics/scratch/</guid>
       <description>Los nin@s definitivamente pueden aprender a programar. Una ventaja de aprender programación es el desarrollo del pensamiento lógico. Scratch es un lenguaje de programación especialmente desarrollado para niñ@s que es facil y divertido para aprender. ¡Con Scratch se puede hacer animaciones, juegos y mucho más!</description>
     </item>
     

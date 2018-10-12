@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TechTeach Esteli</title>
-    <link>http://techteachesteli.info/tags/</link>
+    <link>https://techteachesteli.info/tags/</link>
     <description>Recent content in Tags on TechTeach Esteli</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://techteachesteli.info/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://techteachesteli.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

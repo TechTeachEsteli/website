@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cursos on TechTeach Esteli</title>
-    <link>http://techteachesteli.info/cursos/</link>
+    <link>https://techteachesteli.info/cursos/</link>
     <description>Recent content in Cursos on TechTeach Esteli</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://techteachesteli.info/cursos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://techteachesteli.info/cursos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Backend web development</title>
-      <link>http://techteachesteli.info/cursos/backend/</link>
+      <link>https://techteachesteli.info/cursos/backend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/cursos/backend/</guid>
+      <guid>https://techteachesteli.info/cursos/backend/</guid>
       <description>Java op Codecademy We maken gebruik van de Java cursus die beschikbaar is op Codecademy. De curus bevat de nodige uitleg en vervolgens mag je zelf aan de slag om een probleem op te lossen met Java code. Je kunt het hele programma in je browser volgen en je hoeft er geen software voor op je computer te installeren.
 Doorloop de volgende stappen om te beginnen:
  Ga naar Codecademy en maak een account aan.</description>
@@ -22,19 +22,19 @@ Doorloop de volgende stappen om te beginnen:
     
     <item>
       <title>Frontend web development</title>
-      <link>http://techteachesteli.info/cursos/frontend/</link>
+      <link>https://techteachesteli.info/cursos/frontend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/cursos/frontend/</guid>
+      <guid>https://techteachesteli.info/cursos/frontend/</guid>
       <description>Voorbereiding Voor dit programma heb je een tekstverwerker nodig. Microsoft Word is niet erg geschikt voor dit soort doeleinden en er bestaan tekstverwerkers die juist visuele ondersteuning geven bij het programmeren. Wij raden aan om Sublime Text te gebruiken; deze tekstverwerker is gratis en geeft je wat extra hulp bij het maken van HTML, CSS en JavaScript zowel visueel als bij het schrijven zelf. Sublime kun je hier downloaden.</description>
     </item>
     
     <item>
       <title>Python development</title>
-      <link>http://techteachesteli.info/cursos/python/</link>
+      <link>https://techteachesteli.info/cursos/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://techteachesteli.info/cursos/python/</guid>
+      <guid>https://techteachesteli.info/cursos/python/</guid>
       <description>Python op Codecademy We maken gebruik van de Python cursus die beschikbaar is op Codecademy. De curus bevat de nodige uitleg en vervolgens mag je zelf aan de slag om een probleem op te lossen met Python code. Je kunt het hele programma in je browser volgen en je hoeft er geen software voor op je computer te installeren.
 Doorloop de volgende stappen om te beginnen:
  Ga naar Codecademy en maak een account aan.</description>

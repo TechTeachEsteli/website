@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:TechTeachEsteli/TechTeachEsteli.github.io.git
 	branch = master
+[submodule "TechTeachEsteli.github.io"]
+	path = TechTeachEsteli.github.io
+	url = https://github.com/TechTeachEsteli/TechTeachEsteli.github.io.git

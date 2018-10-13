@@ -29,7 +29,6 @@ h1 {
     font-size: 1.6rem;
 }
 
-
 h2 {
     font-size: 1.2rem;
 }
@@ -45,6 +44,11 @@ h2 {
 
 b {
     color: #84529C;
+}
+
+a {
+    color: #6D72C3;
+    cursor: pointer;
 }
 
 a:hover {
@@ -129,7 +133,7 @@ a:hover {
     padding-bottom: 20px;
 }
 
-.btn-course:hover  {
+.btn-course:hover {
     background-color: #2D116D;
     color: white;
     border: 3px solid white;

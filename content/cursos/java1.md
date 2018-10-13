@@ -1,6 +1,6 @@
 ---
 identifier: "tracks"
-title:	 "Frontend web development"
+title:	 "Lenguaje de programación: Java"
 description: |
   In dit programma leer je websites ontwikkelen volgens de laatste standaarden en trends op het gebied van web development.
 

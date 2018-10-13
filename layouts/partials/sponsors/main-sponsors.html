@@ -4,7 +4,7 @@
     <div class="row justify-content-center">
         {{ range $.Site.Data.patrocinadores.patrocinador }}
         <div class="col-md-4 col-8 text-center">
-            <a href="{{ .link }}">
+            <a href="{{ .link }}" target="_blank">
                 {{ if isset . "image" }}
                 <img src="{{ .image }}" alt="{{ .name }}" class="img-fluid"/>
                 {{ else }}

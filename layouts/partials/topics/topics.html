@@ -1,5 +1,5 @@
  <div id="topics" class="container">
-    {{ $list := (where .Data.Pages "Section" "topics") }}
+    {{ $list := (where (.Data.Pages.ByParam "order")  "Section" "topics") }}
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             {{ range $index, $element := $list  }}

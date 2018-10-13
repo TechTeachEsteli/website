@@ -1,6 +1,6 @@
 ---
 identifier: "tracks"
-title:	 "Python development"
+title:	 "Primeros pasos con Arduino"
 description: |
   In dit programma leer je de basis van het programmeren in Python. Python is een toegangkelijke programmeertaal met veel verschillende toepassingen. Je kunt Python bijvoorbeeld gebruiken om een website te bouwen zoals bijvoorbeeld een webshop. Maar Python is ook erg geschikt voor het programmeren van Internet of Things (IOT) apparaten of het aansturen van hardware.
                         
@@ -18,3 +18,5 @@ Doorloop de volgende stappen om te beginnen:
 
 * Ga naar [Codecademy](https://www.codecademy.com/) en maak een account aan.
 * Ga vervolgens naar de [Python cursus](https://www.codecademy.com/learn/learn-python)
+
+http://arduino.cl/primeros-pasos-con-arduino/

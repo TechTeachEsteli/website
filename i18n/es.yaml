@@ -5,6 +5,8 @@
 #Courses
 - id: courses
   translation: "Cursos"
+- id: themes
+  translation: "Temas"
 
 #Info
 - id: schedule

@@ -1,15 +1,10 @@
 {{ define "main" }}
 <section class="track-content">
-    <div class="container-fluid padding-top padding">
+    <div class="container-fluid padding-top pb-3">
         <div class="row justify-content-md-center">
             <div class="col-md-6">
                 <div class="row justify-content-between">
                     <h3 class="track-title">{{ .Title }}</h3>
-                    {{ range .Translations }}
-                    <a href="{{ .Permalink }}">
-                        <button type="button" class="btn">{{ .Lang }} version</button>
-                    </a>
-                    {{ end }}
                 </div>
                 <div class="row">
                     {{ .Params.description | markdownify }}
@@ -39,20 +34,23 @@
         </div>
     </div>
 
-    <div class="row justify-content-md-center connect pt-3 pb-3">
-        <div class="col-md-7">
-            <h3>{{ i18n "connect"}}</h3><br>
-            <p>
-                {{ i18n "ask-questions"}}
-            </p>
-            <p class="align-left">
-                {{ i18n "philpar2"}}
-                {{ i18n "philpar1"}}
-            </p>
+    <div class="container connect pt-4 pb-4">
+        <div class="row justify-content-center">
+            <div class="col-md-9">
+                <h1 id="connect" class="pb-1">{{ i18n "connect"}}</h1>
+                <p>
+                    {{ i18n "ask-questions"}}
+                </p>
+                <p class="align-left">
+                    {{ i18n "philpar2"}}
+                    {{ i18n "philpar1"}}
+                </p>
+            </div>
         </div>
-        <div class="row">
-            <div id="code_breed" class="col align-self-center">
-                <img src="{{ "images/compleet.png" | absURL }}" id="code_breed_img">
+
+        <div class="row justify-content-center pt-3">
+            <div id="code_breed" class="col-md-5 offset-md-1 align-self-center">
+                <img src="{{ "images/compleet.png" | absURL }}" id="code_breed_img" class="img-fluid">
             </div>
         </div>
 

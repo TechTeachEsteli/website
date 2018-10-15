@@ -73,11 +73,6 @@
         height: 400px !important;
     }
 
-    #code_breed_img {
-        padding-top: 60px;
-        width: 50%
-    }
-
     #logo_small {
         display: block;
     }
@@ -106,11 +101,6 @@
         height: 320px !important;
     }
 
-    #code_breed_img {
-        padding-top: 60px;
-        width: 50%
-    }
-
     #logo_small {
         display: block;
     }
@@ -134,11 +124,6 @@
 
     .carousel-inner {
         height: 280px !important;
-    }
-
-    #code_breed_img {
-        padding-top: 60px;
-        width: 50%;
     }
 
     nav {

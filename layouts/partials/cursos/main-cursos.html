@@ -5,7 +5,7 @@
         {{ $list := (where (.Data.Pages.ByParam "order") "Section" "cursos") }}
         {{ range $list }}
         <div class="col p-2 text-center">
-            <button type="button" class="btn btn-course">{{ .Title }}</button>
+            <a href="{{ .Permalink }}"><button type="button" class="btn btn-course">{{ .Title }}</button></a>
         </div>
         {{ end }}
     </div>

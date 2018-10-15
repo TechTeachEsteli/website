@@ -1,12 +1,12 @@
 ---
-identifier: "tracks"
+identifier: "cursos"
 title:	 "Primeros pasos con Arduino"
 description: |
-  In dit programma leer je de basis van het programmeren in Python. Python is een toegangkelijke programmeertaal met veel verschillende toepassingen. Je kunt Python bijvoorbeeld gebruiken om een website te bouwen zoals bijvoorbeeld een webshop. Maar Python is ook erg geschikt voor het programmeren van Internet of Things (IOT) apparaten of het aansturen van hardware.
+  ¿Qué es Arduino? Arduino es una plataforma de prototipos electrónica de código abierto (open-source) basada en hardware y software flexibles y fáciles de usar. Está pensado para artistas, diseñadores, como hobby y para cualquiera interesado en crear objetos o entornos interactivos. Fuente: [sitio web Arduino](http://arduino.cl/que-es-arduino)
                         
   In dit programma leer je voornamelijk de basis van Python, maar ook een goede basis voor het leren van een andere programmeertaal want de concepten die aan bod komen zijn te gebruiken in veel andere programmeertalen.
 intro: "In dit programma leer je de basis van de programmeertaal Python. Python is een goede taal om te leren omdat het toegangkelijk maar tevens veelgebruikt wordt in de IT wereld. Tevens geeft Python je een goede basis om een andere programmeertaal te leren."
-image: "images/tabs/Techteachbackend-01.png"
+image: "images/techteach-zen.png"
 order: 3
 ---
 

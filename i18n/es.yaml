@@ -62,6 +62,10 @@
 # Tracks
 - id: slogan
   translation: "Entra al mundo maravilloso de programación"
+- id: connect
+  translation: "Conéctate"
+- id: ask-questions
+  translation: "Haz tus preguntas a las TechTeachers u otros participantes"
 
 #Philosophy
 - id: philosophy

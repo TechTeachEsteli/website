@@ -76,3 +76,8 @@
   translation: "TechTeach es un lugar donde todos aprendemos; los participantes y los TechTeachers también. Queremos que sea un ambiente seguro y donde todos se sienten bienvenido."
 - id: philpar2
   translation: "Aprender programación no siempre será facil y vas a cometer errores; eso es normal, y sólo es una señal de que estás aprendiendo algo nuevo. Discutir un problema que encuentras con los otros estudiantes o los TechTeachers te puede ayudar en pensar en nuevas soluciones."
+
+
+#TT International
+- id: international
+  translation: "TechTeach Internacional"

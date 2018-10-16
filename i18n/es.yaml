@@ -60,6 +60,8 @@
   translation: "Domingo"
 
 # Tracks
+- id: intro
+  translation: "Introducción"
 - id: slogan
   translation: "Entra al mundo maravilloso de programación"
 - id: connect

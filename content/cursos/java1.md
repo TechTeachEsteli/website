@@ -1,38 +1,37 @@
 ---
 identifier: "cursos"
-title:	 "Lenguaje de programación: Java"
+title:	 "Lenguaje de programación Java 1"
 description: |
-  In dit programma leer je websites ontwikkelen volgens de laatste standaarden en trends op het gebied van web development.
+  Un lenguaje de programación sirve para comunicar con computadoras. Especificas una serie de instrucciones que controlarán el comportamiento de la computadora. Un programa se hace juntando esas instrucciones. 
+  
+  Java es una de los lenguajes de programación más populares en el mundo. Muchísimas empresas necesitan desarrolladores de Java entonces hay muchas posibilidades de empleo cuando uno aprende Java. 
 
-  Een frontend ontwikkelaar vormt de verbinding tussen de grafisch ontwerper, die het ontwerp voor de website maakt, en de backend ontwikkelaar, die de logica inbouwt om de acties van gebruikers op je website af te handelen. Vandaag de dag is de rol van een frontend ontwikkelaar veelzijdig en creatief door alle verschillende apparaten waarmee gebruikers je applicatie bezoeken, zoals smartphones, tablets en 'gewone' browsers.
-
-  In dit programma leer je HTML, CSS en Javascript. HTML bevat de basis bouwstenen voor een website, met CSS kun je HTML meer opmaak geven en JavaScript dient voor het interactief maken van je pagina, dynamisch inladen van nieuwe informatie en snel visuele feedback kunnen geven aan je gebruikers.
-intro: "In dit programma leer je om websites te bouwen met HTML, CSS en JavaScript. Van ieder onderdeel zul je eerst een introductie krijgen daarna heb je de mogelijkheid om je verder te verdiepen in de verschillende onderdelen."
+  Si quieres desarrollar aplicaciones para Android, necesitas saber Java también. 
+intro: "Es este curso aprenderás los conceptos generales de los lenguajes de programación y en especial las nociones básicas de Java. Mira los videos y sigue las instrucciones y ejemplos. ¡Podrás escribir tus primeros pequeños programas pronto!"
 image: "images/tabs/Techteachbackend-01.png"
 order: 1
 ---
 
-### Voorbereiding
-Voor dit programma heb je een tekstverwerker nodig. Microsoft Word is niet erg geschikt voor dit soort doeleinden en er bestaan tekstverwerkers die juist visuele ondersteuning geven bij het programmeren. Wij raden aan om Sublime Text te gebruiken; deze tekstverwerker is gratis en geeft je wat extra hulp bij het maken van HTML, CSS en JavaScript zowel visueel als bij het schrijven zelf. Sublime kun je [hier](https://www.sublimetext.com/) downloaden.
+# Udemy
+El curso que vamos a utilizar está en __Udemy__. Udemy es un plataforma en linea que ofrece cursos sobre varios temas. Para la mayoría de los cursos hay que pagar, pero este curso de Java es completamente gratuito.
 
-### Beginnen
-Het programma bestaat uit drie verschillende onderdelen:
+Primero, regístrate en Udemy. Lo unico que necesitas es tu correo electronico. ¡Recuerda bien tu contraseña!
 
-* HTML
-* CSS
-* JavaScript
+# Intrucciones
+## Preguntas
+Pide ayuda a las TechTeachers o a los otros participantes cuando encuentras un problema o hay algo que no entiendes.
 
-Alle onderdelen hebben drie verschillende moeilijkheidsniveaus, beginner, gemiddeld en gevorderd. Begin bij het 'beginner'-niveau. Het programma is hier te vinden:
+## Videos
+El curso consta de una serie de videos; durante los videos se espera que sigas los pasos que hace el profesor también. Cuando sea necesario, pausa el video o volver a reproducir (parte del) video. Lo más importante es practicar, entonces no es suficiente sólo ver los videos, realmente tienes que imitar lo que muestran en los videos. 
 
-* [HTML](http://www.htmldog.com/guides/html/beginner/)
-* [CSS](http://www.htmldog.com/guides/css/beginner/)
-* [JavaScript](http://www.htmldog.com/guides/javascript/beginner/)
+## Ejercicios
+Aparte de los videos encontrarás varios ejercicios. El curso ya fue dado hace varios años entonces el profesor publicó las soluciones también para que puedas revisar tu trabajo. No veas la solución antes de terminar tu trabajo ¡sólo de esa manera aprenderás a programar! Si quieres, podemos revisar tu solución juntos. 
 
-Het programma legt stap voor stap uit wat er moet gebeuren.
+## Audífonos
+Si estás viendo los videos durante las sesiones de TechTeach ¡utiliza audifonos! Todos los participantes están aprendiendo y no queremos que se estorban, por eso es necesario utilizar audifonos siempre.
 
-### Vervolg
-Na het afronden van het beginner-programma kan verder worden gegaan met de [andere niveau's](http://www.htmldog.com/guides/). Meer informatie en extra oefeningen zijn te vinden via de onderstaande links: 
+## NetBeans
+Durante el curso utilizarás un programa que se llama NetBeans; si estás utilizando una laptop de TechTeach por favor primero revisa si NetBeans ya está en ella y si necesitas descargar el programa por favor avisa una TechTeacher.
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+# El curso
+Aquí encontrarás [el curso](https://www.udemy.com/fundamentos-de-programacion-con-java/). Da click en "Inscríbete ya" para empezar. 

@@ -1,26 +1,28 @@
 ---
 identifier: "cursos"
-title:	 "Crear tu primer sitio web: HTML & CSS"
+title:	 "Crear tu primer sitio web: HTML, CSS y Bootstrap"
 description: |
   ¿Piensas que desarrollar un sitio web es dificil, require conocimiento de antemano o se necesita programas caros para hacerlo? ¡Ninguno de los anteriores es el caso! Todos podemos aprender a crear un sitio web y sólo se necesita software que es gratis. Además, sólo tienes que saber cómo utilizar una computadora y puedes empezar. 
   
-  En este curso aprendedes a utilizar HTML y CSS, los dos lenguajes de programación en los que están basados todos los sitios web.
+  En este curso aprendedes a utilizar HTML y CSS, los dos lenguajes de programación en los que están basados todos los sitios web. Después seguimos con Bootstrap, un framework muy popular que ayuda en desarrollar páginas web responsive.
 intro: |
-  En este curso vas a crear tu primer sitio web. Vamos a empezar con HTML para dar estructura y textos al sitio web. Después añadimos colores y más estilos con CSS. Finalmente, si quieres, puedes subir tu pagina al internet. 
+  En este curso vas a crear tu primer sitio web. La idea es que sea tu página personal, con el contenido que quieras. 
+  
+  Vamos a empezar con HTML para dar estructura y textos al sitio web. Después añadimos colores y más estilos con CSS. Para crear páginas web responsive utilizaremos Bootstrap. Al final de este curso podrás crear una página web moderna y subirla al internet (gratis).
   
   Si utilizas una laptop de TechTeach por favor ¡no descargue nada! Esas laptops ya tienen todos los programas necesarios para completar los cursos.
 image: "images/tabs/Techteachfrontend-01.png"
 order: 0
 ---
 <details>
-    <summary class="course-part">Parte 1: Introducción y HTML</summary>
+    <summary class="course-part">Introducción y HTML</summary>
 
-Vamos a utilizar un curso gratis que está en ___openclassrooms___ y combinamos el contenido de ese curso con tareas que encuentras aquí. Si quieres puedes preguntar una TechTeacher que te revise la tarea antes de seguir adelante, pero si la tarea no dice explícitamente que lo hagas, no es necesario. 
+Vamos a utilizar un curso gratis que está en ___openclassrooms___ y combinamos el contenido de ese curso con tareas que encuentras aquí. Si quieres puedes preguntar una TechTeacher que te revise la tarea antes de seguir adelante, pero si la tarea no dice explícitamente que lo hagas, no es necesario (pero possible). 
 
 ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes tomar notas durante el curso, pero lo más, más, más importante es que practiques. Cuando explican algo nuevo de HTML o CSS y dan un ejemplo, inténtalo tú mism@ también. Primero puedes seguir exactamente el ejemplo, y después cambiar ciertas cosas para practicar más.  
 
 <details>
-     <summary class="clase">Clase 1</summary>
+     <summary class="clase">Parte 1</summary>
      
 ## Cómo se construyen sitios web y los primeros pasos con HTML
 1. Lee la [introducción](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3339706-como-se-construyen-los-sitios-web). No es necesario tomar notas ni aprender todo palabra por palabra; sólo es para que tengas una impresión de cómo funciona todo. 
@@ -39,7 +41,7 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
 
   <details>
-     <summary class="clase">Clase 2</summary>
+     <summary class="clase">Parte 2</summary>
      
 ## Párrafos, listas y texto resaltado
 1. [Sigue con esta clase del curso](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3340049-organizar-el-texto)
@@ -53,7 +55,7 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
 
 <details>
-     <summary class="clase">Clase 3</summary>
+     <summary class="clase">Parte 3</summary>
      
 ## Enlaces y imágenes
 1. [Sigue con esta clase sobre enlace](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3340161-crear-enlaces)
@@ -70,10 +72,10 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 
 
 <details>
-    <summary class="course-part">Parte 2: CSS</summary>
+    <summary class="course-part">CSS</summary>
 
 <details>
-     <summary class="clase">Clase 4</summary>
+     <summary class="clase">Parte 4</summary>
      
 ## Introducción a CSS, color de texto y fondo
 1. Cree una carpeta que se llama "Parte 2". Guarda aquí los archivos de las clases 4,5 y 6.
@@ -99,9 +101,9 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
 
 <details>
-     <summary class="clase">Clase 5</summary>
+     <summary class="clase">Parte 5</summary>
      
-## Clase 5: Dar formato al texto
+## Dar formato al texto
 
 1. Sigue [esta clase](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3340915-dar-formato-al-texto)
 
@@ -117,10 +119,10 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
 
 <details>
-     <summary class="clase">Clase 6</summary>
+     <summary class="clase">Parte 6</summary>
      
 
-## Clase 6: Bordes y sombreado
+## Bordes y sombreado
 
 1. Sigue [esta clase](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3343845-bordes-y-sombreado)
 
@@ -133,9 +135,9 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
 
 <details>
-  <summary class="clase">Clase 7</summary>
+  <summary class="clase">Parte 7</summary>
   
-## Clase 7: Crear apariencias dinamicas
+## Crear apariencias dinamicas
 
 1. Sigue [esta clase](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3344112-crear-apariencias-dinamicas)
 
@@ -148,9 +150,9 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
 
 <details>
-     <summary class="clase">Clase 8</summary>
+     <summary class="clase">Parte 8</summary>
      
-## Clase 8: Estructurar tu página
+## Estructurar tu página
 
 1. Sigue [esta clase](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3344418-estructurar-tu-pagina)
 
@@ -162,10 +164,10 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
 
 <details>
-     <summary class="clase">Clase 9</summary>
+     <summary class="clase">Parte 9</summary>
      
     
-## Clase 9: El modelo de cajas
+## El modelo de cajas
 
 1. Sigue [esta clase](https://openclassrooms.com/en/courses/3339201-aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/3344652-el-modelo-de-cajas)
 
@@ -180,11 +182,11 @@ ___Programación sólo se puede aprender por práctica.___ Si quieres, puedes to
 </details>
  
 <details>
-     <summary class="course-part">Parte 3: Crear tu primera página</summary>
+     <summary class="course-part">Bootstrap</summary>
      Los detalles siguen.
 </details>
 
 <details>
-     <summary class="course-part">Parte 4: (Opcional) Subir tu página al internet</summary>
+     <summary class="course-part">Subir tu página al internet con GitHub</summary>
      Los detalles siguen.
 </details>

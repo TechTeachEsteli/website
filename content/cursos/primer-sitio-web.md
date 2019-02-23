@@ -6,7 +6,7 @@ description: |
   
   En este curso aprendedes a utilizar HTML y CSS, los dos lenguajes de programación en los que están basados todos los sitios web. Después seguimos con Bootstrap, un framework muy popular que ayuda en desarrollar páginas web responsive.
 intro: |
-  En este curso vas tu página web personal, con el contenido que quieras. 
+  En este curso vas a crear tu primer sitio web. La idea es que sea tu página personal, con el contenido que quieras. 
   
   Vamos a empezar con HTML para dar estructura y textos al sitio web. Después añadimos colores y más estilos con CSS. Para crear páginas web responsive utilizaremos Bootstrap. Al final de este curso podrás crear una página web moderna y subirla al internet (gratis).
   
